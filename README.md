@@ -31,7 +31,7 @@ For example, here is how you switch to a new node version using nave:
 
 With the following command the angular-cli will be installed globally in your machine:
 
-    npm install -g @angular/cli 
+    __npm install -g @angular/cli__ 
 
 
 # How To install this repository
